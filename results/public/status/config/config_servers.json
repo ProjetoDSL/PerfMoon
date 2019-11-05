@@ -1,0 +1,9 @@
+{
+    "default": {
+        "servers": {
+            "localhost": {
+                "label": "localhost"
+            }
+        }
+    }
+}
